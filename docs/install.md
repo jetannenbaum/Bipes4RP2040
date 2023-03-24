@@ -10,7 +10,7 @@
 
     - Release the boot button
 
-3. The Pico should show up as a new drive (labeled RPI-RP2) available on your computer
+3. The Pico will show up as a new drive (labeled RPI-RP2) available on your computer
 
 4. Copy the downloaded uf2 file onto the RPI-RP2 drive
 
