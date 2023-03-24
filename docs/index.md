@@ -3,7 +3,9 @@
 
 ## Who am I?
 
-* I am Jim Tannenbaum, a senior principal engineer at United Healthcare 
+* I am Jim Tannenbaum, a senior principal engineer at United Healthcare
+* I support the Optum STEM outreach program, mentoring middle and high school students in:
+   * Internet Safety, Scratch, Python, BIPES, MicroPython, and Bots
 * Bachelor of Science in Computer Engineering degree from Lehigh University
     * Combination of Computer Science and Digital Hardware
 * Master of Science in Computer Science from Villanova Universtiy
