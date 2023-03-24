@@ -17,6 +17,11 @@
 * Introduce the Raspberry Pi Pico micro controller
 * Install the MicroPython Interpreter
 * Introduce BIPES, a Block based Integrated Program for Embedded Systems
-* Demonstrate using BIPES:
+* Demonstration using BIPES:
     * Demonstate different computational concepts
+         * Variables
+         * Loops
+         * Conditionals
+         * Functions
+         * Lists
     * Connect the Pico to different components
