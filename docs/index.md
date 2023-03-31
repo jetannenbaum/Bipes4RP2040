@@ -14,11 +14,9 @@
 
 ## Program Basics
 
-* Introduce the Raspberry Pi Pico micro controller
+* Introducing the Raspberry Pi Pico micro controller
 * Install the MicroPython interpreter
-* Using a prototyping board
-* The list of parts used
-* Introduce BIPES, a Block based Integrated Program for Embedded Systems
+* What is BIPES, a Block based Integrated Program for Embedded Systems?
 * Demonstration using BIPES:
     * Demonstate different computational concepts
          * Variables
@@ -27,3 +25,5 @@
          * Functions
          * Lists
     * Connect the Pico to different components
+         * A list of components
+         * Using a prototyping board
