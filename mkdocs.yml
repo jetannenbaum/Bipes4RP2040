@@ -2,6 +2,7 @@ site_name: Bipes4RP2040
 
 nav:
   - Home: index.md
+  - Introduction: intro.md
   - Raspberry Pi Pico: pico.md
   - Installing MicroPython: install.md
   - Introducing BIPES: bipes.md
