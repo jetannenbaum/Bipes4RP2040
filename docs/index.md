@@ -1,8 +1,5 @@
-<center>
 
 ![Header](./img/header.jpg)
-
-</center>
 
 # <center>Learn Computational Thinking Through BIPES and RP2040 Based Microcontrollers</center>
 
