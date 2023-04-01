@@ -19,3 +19,5 @@
     - The RPI-RP2 drive will no longer be visable on your computer.
 
 ![Install MicroPython](./img/installMicroPython.gif)
+
+Modified image courtesy of Raspberry Pi
