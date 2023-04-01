@@ -3,6 +3,9 @@ site_name: Bipes4RP2040
 nav:
   - Home: index.md
   - Introduction: intro.md
+  - Program: program.md
+  - Parts: parts.md
+  - Breadboard: breadboard.md
   - Raspberry Pi Pico: pico.md
   - Installing MicroPython: install.md
   - Introducing BIPES: bipes.md
@@ -16,6 +19,8 @@ repo_name: 'GitHub Repo'
 repo_url: 'https://github.com/jetannenbaum/Bipes4RP2040'
 
 edit_uri: 'blob/master/docs'
+features:
+  - navigation.footer
 plugins:
   - search
 markdown_extensions:
