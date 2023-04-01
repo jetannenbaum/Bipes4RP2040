@@ -4,6 +4,7 @@ nav:
   - Home: index.md
   - Raspberry Pi Pico: pico.md
   - Installing MicroPython: install.md
+  - Introducing BIPES: bipes.md
 
 theme:
   material
