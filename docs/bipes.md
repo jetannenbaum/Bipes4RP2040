@@ -12,3 +12,4 @@ BIPES hides the complexity of the MicroPython programming language by allowing u
 
 Working with BIPES is easy, since it web based and runs in most browsers.  Nothing is required to download on to your computer.  BIPES can be found here: [https://bipes.net.br/pico/ui/](https://bipes.net.br/pico/ui/)  
 
+![BIPES](./img/bipes.jpg)
