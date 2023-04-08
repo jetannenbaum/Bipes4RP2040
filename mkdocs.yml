@@ -11,6 +11,16 @@ nav:
   - Introducing BIPES: bipes.md
   - Labs:
     - Blink Onboard LED: labs/onboardBlink.md
+    - Alternating LEDs: labs/alternatingBlink.md
+    - Button Press (Polling): labs/buttonPressPoll.md
+    - Button Press (Interrupt): labs/buttonPressInterrupt.md
+    - Pulse Width Modulation: labs/pwm.md
+    - Analog to Digital Converter: labs/adc.md
+    - Photo Resistor: labs/photoResistor.md
+    - NeoPixel Display: labs/neopixel.md
+    - Digital Display: labs/ssd1306.md
+    - Joystick: labs/joystick.md
+    - Buzzer: labs/buzzer.md
 
 copyright: # should remain a link to the original theme
    <div>
