@@ -8,6 +8,7 @@ We'll need a few simple blocks to blink the onboard LED.  We'll want to turn on 
     - repeat 10 times
 
 ![repeat 10 times loop](./img/repeat10.jpg)
+
 - Machine
     - In/Out Pins
         - set output pin
@@ -40,13 +41,17 @@ Next, we can add a variable block, so we can easily change the delay timing.  We
 
 ![create a variable](./img/variable.jpg)
 
-- Click on Create variable... to create a variable and click on ok
+- Click on Create variable... to create a variable and click ok
 
 ![delay variable](./img/delayVariable.jpg)
 
-- Now the variable is availble for use
+- Now the delay variable blocks are available for use on the canvas.
 
 ![created delay](./img/delayVariable2.jpg)
+
+- Drag the set delay block onto the canvas and place it above the loop block
+
+![move the delay variable](./img/delayVariable4.jpg)
 
 - We'll need to set the delay to a number by using a Math number block
 
