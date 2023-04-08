@@ -10,7 +10,7 @@ nav:
   - Installing MicroPython: install.md
   - Introducing BIPES: bipes.md
   - Labs:
-    - Blink Onboard LED: onboardBlink.md
+    - Blink Onboard LED: labs/onboardBlink.md
 
 copyright: # should remain a link to the original theme
    <div>
