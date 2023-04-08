@@ -9,6 +9,8 @@ nav:
   - Raspberry Pi Pico: pico.md
   - Installing MicroPython: install.md
   - Introducing BIPES: bipes.md
+  - Labs:
+    - Blink Onboard LED: OnboardBlink.md
 
 copyright: # should remain a link to the original theme
    <div>
