@@ -7,10 +7,12 @@
 5. LEDs
 6. Micro Button
 7. Potentiometer
-8. Neopixel Display
-9. SD1306 Display
-10. Joystick
-11. Buzzer
-12. Assorted Wires
+8. 10K Ohm Resistor
+9. Photo Resistor
+10. Neopixel Display
+11. SD1306 Display
+12. Joystick
+13. Buzzer
+14. Assorted Wires
 
 ## Total Cost: ~ $25
