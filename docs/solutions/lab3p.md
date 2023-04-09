@@ -2,4 +2,4 @@
 
 ## Solution: Sequencing Through Three (or More) LEDs
 
-![lab 3 solution](./img/lab3Challenge.jpg)
+![lab 3 solution](./img/lab3pChallenge.jpg)
