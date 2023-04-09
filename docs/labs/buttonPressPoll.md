@@ -58,6 +58,7 @@ The object of this lab is to have one of the LEDs on while the other is off.  Th
     ![lab 3 solution](./img/lab3Blocks.jpg)
 
 !!! Challenge 
+
     Can you add more LEDs, just as you did in the previous lab?
 
     Here are some hints:
