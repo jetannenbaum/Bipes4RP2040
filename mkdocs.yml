@@ -21,6 +21,17 @@ nav:
     - Digital Display: labs/ssd1306.md
     - Joystick: labs/joystick.md
     - Buzzer: labs/buzzer.md
+  - Challenge Solutions:
+    - Alternating LEDs: solutions/lab2.md
+    - Button Press (Polling): solutions/lab3p.md
+    - Button Press (Interrupt): solutions/lab3i.md
+    - Pulse Width Modulation: solutions/lab4.md
+    - Analog to Digital Converter: solutions/lab5.md
+    - Photo Resistor: solutions/lab6.md
+    - NeoPixel Display: solutions/lab7.md
+    - Digital Display: solutions/lab8.md
+    - Joystick: solutions/lab9.md
+    - Buzzer: solutions/lab10.md
 
 copyright: # should remain a link to the original theme
    <div>
