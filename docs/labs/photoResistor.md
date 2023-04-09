@@ -1,6 +1,6 @@
 # Our Sixth Lab: Using a Photo Resistor 
 
-## Parts for this Lab are in Bag **2** and Bag **6**
+## Parts for this Lab are as follows:
 
 1. We need a single LED and resistor for this lab.  As a reminder for the setup:
 
@@ -31,13 +31,13 @@
 
     Use the readings from the analog to digital converter pin to determine when to turn the LED on and off.
 
-    Hints: 
+Hints: 
     
-        - You'll need to test the reading from the ADC block with an if else Logic block.  You can start with an if Logic block, then add the else by clicking on the gear and draging the else section over as follows:
+    - You'll need to test the reading from the ADC block with an if else Logic block.  You can start with an if Logic block, then add the else by clicking on the gear and draging the else section over as follows:
 
-        ![If adding section](./img/ifAddLogic.jpg)![If adding elsesection](./img/ifAddElseLogic.jpg)
+    ![If adding section](./img/ifAddLogic.jpg)![If adding elsesection](./img/ifAddElseLogic.jpg)
 
-        - If the ADC reading is over the mid-point of an ADC reading, turn the LED on, else turn it off
+    - If the ADC reading is over the mid-point of an ADC reading, turn the LED on, else turn it off
 
     You may need a bright overhead light to see a change in resistance as you cover and uncover the photo resistor.
 
