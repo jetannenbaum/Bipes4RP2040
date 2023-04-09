@@ -53,16 +53,12 @@
     ![lab 3 Interrupt](./img/lab3InterruptBlocks.jpg)
 
 !!! Challenge
- 
+
     Can you add more LEDs, just as you did in the previous lab?
 
     Here are some hints:
 
-    - Create a variable block to hold the number of the pin you want to turn on.
-    
-    - Use the in list list get # List block to get a specific pin for the function call.
+    - The pinList block, setPins function block, and setPins function calling block remain the same
 
-    - Use the change variable by 1 Variable block each time the button is pressed.
-
-    - Use a remainder Math block to ensure the number of the pin retrieved from the list doesn't exceed the number of pins in the list.
+    - Replace the polling block with the interrupt block
 

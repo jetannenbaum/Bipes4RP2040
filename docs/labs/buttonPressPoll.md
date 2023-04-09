@@ -63,7 +63,11 @@ The object of this lab is to have one of the LEDs on while the other is off.  Th
 
     Here are some hints:
 
-    - The pinList block, setPins function block, and setPins function calling block remain the same
+    - Create a variable block to hold the number of the pin you want to turn on.
+    
+    - Use the in list list get # List block to get a specific pin for the function call.
 
-    - Replace the polling block with the interrupt block
+    - Use the change variable by 1 Variable block each time the button is pressed.
+
+    - Use a remainder Math block to ensure the number of the pin retrieved from the list doesn't exceed the number of pins in the list.
 
