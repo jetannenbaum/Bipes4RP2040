@@ -31,7 +31,7 @@
 
     Use the readings from the analog to digital converter pin to determine when to turn the LED on and off.
 
-Hints: 
+    Hints: 
     
     - You'll need to test the reading from the ADC block with an if else Logic block.  You can start with an if Logic block, then add the else by clicking on the gear and draging the else section over as follows:
 
