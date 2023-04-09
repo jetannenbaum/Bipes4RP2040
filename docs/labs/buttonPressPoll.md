@@ -57,4 +57,16 @@ The object of this lab is to have one of the LEDs on while the other is off.  Th
 
     ![lab 3 solution](./img/lab3Blocks.jpg)
 
-!!! Challenge Can you add more LEDs, just as you did in the previous lab?
+!!! Challenge 
+    Can you add more LEDs, just as you did in the previous lab?
+
+    Here are some hints:
+
+    - Create a variable block to hold the number of the pin you want to turn on.
+    
+    - Use the in list list get # List block to get a specific pin for the function call.
+
+    - Use the change variable by 1 Variable block each time the button is pressed.
+
+    - Use a remainder Math block to ensure the number of the pin retrieved from the list doesn't exceed the number of pins in the list.
+
