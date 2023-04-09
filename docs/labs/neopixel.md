@@ -39,7 +39,7 @@
 
     Using a variety of colors, set the pixels, one at time to each color such that it appears that the display starts out with a single pixel lit in a color, then two pixels in the same color, etc. until all 8 are lit.  Then start on a second color lighting the first pixel.
 
-   ![NeoPixel Display](./img/NeoPixel.gif) 
+    ![NeoPixel Display](./img/NeoPixel.gif) 
 
     Colors can be found here: 
     [https://www.rapidtables.com/web/color/RGB_Color.html](https://www.rapidtables.com/web/color/RGB_Color.html)
