@@ -44,4 +44,6 @@ The object of this lab is to have the external LED start out on.  Then, slowly d
 
     Once that works, what happens if we repeat the exercise, starting with a frequency of 1000, and reduce the frequency to 10?  Use a list block with values: 1000, 500, 100, 50, 40, 30, 20, & 10. 
 
+    WARNING: Flashing lights!
+
      
