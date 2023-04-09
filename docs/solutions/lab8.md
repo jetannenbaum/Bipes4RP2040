@@ -1,5 +1,5 @@
-# Our Eigth Lab: Using an SSD1306 Digital Display
+# Our Eigth Lab: Using an OLED Digital Display
 
 ## Solution: Moving Text Around the Display
 
-![Lab 7 Solution 1](./img/lab8Challenge.jpg)
+![Lab 8 Solution](./img/lab8Challenge.jpg)

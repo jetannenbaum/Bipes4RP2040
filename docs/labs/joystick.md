@@ -1,4 +1,4 @@
-# Our Ninth Lab: Using a Joystick to Draw Lines on an SSD1306 Digital Display 
+# Our Ninth Lab: Using a Joystick to Draw Lines on an OLED Display 
 
 ## Parts for this Lab are the OLED display, with the addition of the Joystick
 
