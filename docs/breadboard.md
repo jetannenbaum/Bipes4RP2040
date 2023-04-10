@@ -1,4 +1,4 @@
-# Breadboards
+# Breadboard
 
 ![Breadboard](./img/breadboard.jpg)
 
@@ -12,12 +12,12 @@ Learning how a breadboard works is critical for building our projects. In the fi
 
 1. The side regions are called the power distribution rails.  They are similar to power lines that reach across our projects.
 
-2. The central region is call the row connector region. In this area the horizontal rows are all connected inside the breadboard. Within any row, columns a, b, c, d and e are all electrically connected. Within any row, columns f, h, i, j, and k are also electrically connected. However, there is a gap between columns e and f called the center gap or component slot that parts are usually placed over. Components like buttons and chips usually have their pins straddle the component slot.
+2. The central region is called the row connector region. In this area the horizontal rows are all connected inside the breadboard. Within any row, columns a, b, c, d and e are all electrically connected. Within any row, columns f, h, i, j, and k are also electrically connected. However, there is a gap between columns e and f called the center gap or component slot that parts are usually placed over. Components like buttons will have their pins straddle the component slot.
 
-## Pico Placement on Breadboard
+## Microcontroller Placement on Breadboard
 
-For our labs we place the Pico board so that pin 1 of the Pico is in row 1 of the breadboard as in the image below.
+For our labs we place the microcontroller board so that pin 1 of the microcontroller is in row 1 of the breadboard as in the image below.
 
 ![Pico on Breadboard](./img/picoOnBreadboard.png)
 
-This means that the GND connections to the Pico are always in rows 3, 8, 13 and 18 on both sides of the breadboard. One of the ground pins is usually hooked up to the vertical blue power rails on the sides of the breadboard.
+This means that the GND connections to the microcontroller are always in rows 3, 8, 13 and 18 on both sides of the breadboard. One of the ground pins can be hooked up to the vertical blue power rails on either side of the breadboard.
