@@ -1,6 +1,6 @@
 # Our Fourth Lab: Using Pulse Width Modulation (PWM) to Dim an LED
 
-## Parts for this Lab are in Bag **2**
+## Parts for this Lab:
 
 1. We only need a single LED for this lab.  As a reminder for the setup:
 

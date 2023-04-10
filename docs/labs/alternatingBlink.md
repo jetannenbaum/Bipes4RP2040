@@ -1,6 +1,8 @@
 # Our Second Lab: Using the Output Blocks to Make LEDs Blink
 
-1. The longer lead on an LED is the Anode(+) lead.  This is the lead that you will connect to your Pico. Let's start with two LEDs
+## We'll need Two LEDs and a 330 Ohm Resistor
+
+1. The longer lead on an LED is the Anode(+) lead.  This is the lead that you will connect to the microcontroller. Let's start with two LEDs
 
     ```Insert the Anode leads into j20 and j19```
 
@@ -8,7 +10,7 @@
 
     ```Insert the Cathode leads into the Ground(-) rail```
 
-1. We will also use a resistor from one of the ground pins on the Pico and connect it to the ground rail.
+1. We will also use a resistor from one of the ground pins on the microcontroller and connect it to the ground rail.
 
     ```Insert the resistor leads into j3 and into the Ground(-) rail``` 
 
@@ -31,6 +33,7 @@ The object of this lab is to have one of the external LEDs on while the other is
 ![alternating blink](./img/alternateBlink.jpg)
 
 !!! Challenge
+
     Can you add more LEDs and have one LED on a time?  Ideally, each LED would be on for 1/2 second while the rest were off, then the next LED would turn on, and so on.
     
     Here are some ideas:

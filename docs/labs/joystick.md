@@ -1,6 +1,6 @@
 # Our Ninth Lab: Using a Joystick to Draw Lines on an OLED Display 
 
-## Parts for this Lab are the OLED display, with the addition of the Joystick
+## Parts for this Lab are the OLED display and a Joystick
 
 1. Using the setup from the last lab, we'll use the display.  As a reminder:
 
@@ -21,11 +21,12 @@
 
 ![Lab 9](./img/lab9.jpg)
 
-## Drawing Lines With a Joystick and the SSD1306 Display
+## Drawing Lines With a Joystick and the OLED Display
 
 - We already added the ssd1306 library to the microcontroller.
 
 - We also took some time to look at the blocks in the Displays OLED Display section.
+
     - Did you notice the line block?
 
 - We learned how to read the Analog to Digital Converter inputs in Lab 5.  In this case, we are using two of the ADCs.
@@ -44,8 +45,7 @@
 
         - Read the voltages from the joystick 
 
-        - Convert the voltages to a screen coordinate 
-        (X, Y)
+        - Convert the voltages to a screen coordinate (X, Y)
 
         - Draw a line from the starting position to the new position
 
