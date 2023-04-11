@@ -42,11 +42,11 @@ The object of this lab is to have one of the external LEDs on while the other is
 
     ![select list](./img/selectList.jpg)![add pins to list](./img/addPins.jpg)![pin list variable](./img/pinList.jpg)
 
-    - Use a loop to determine which LED to turn on (rename the loop variable to pin for clarity)
+    - Use a loop block to determine which LED to turn on (rename the loop variable to pin for clarity)
 
     ![pins in a loop](./img/pinListLoop.jpg)
 
-    - Use a function (let's call it setPins) to turn on one LED while turning the others off
+    - Use a function block (let's call it setPins) to turn on one LED while turning the others off
 
     ![create a function](./img/createFunction.jpg)![add inputs](./img/addVariablesToFunction.jpg)![named function](./img/setPins.jpg)
 
@@ -54,7 +54,7 @@ The object of this lab is to have one of the external LEDs on while the other is
 
     ![if block](./img/ifLogic.jpg)![turn off pins](./img/offPins.jpg)
 
-    - Finally, we'll need to call the function
+    - Finally, we'll need to call the function block
 
     ![calling setPins function](./img/setPinsCall.jpg)
 

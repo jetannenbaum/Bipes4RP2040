@@ -1,7 +1,7 @@
 # A List of Parts Being Used
 
 1. 1/2 Size Breadboard
-2. Raspberry Pi Pico
+2. Raspberry Pi Pico RP2040 Microcontroller
 3. Micro USB Cable
 4. 330 Ohm Resistor
 5. LEDs
@@ -13,6 +13,6 @@
 11. SD1306 Display
 12. Joystick
 13. Buzzer
-14. Assorted Wires
+14. Assorted Jumper Wires
 
 ## Total Cost: ~ $25
