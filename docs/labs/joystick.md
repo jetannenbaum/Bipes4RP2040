@@ -5,10 +5,10 @@
 1. Using the setup from the last lab, we'll use the display.  As a reminder:
 
     - Insert the display into ```f25, f26, f27, and f28```
-    - Using one of the jumper wires in Bag 8, insert one end to ```i25``` and the other end into ```i18```
-    - Using another jumper wire from Bag 8, insert one end to ```j26``` and the other end into ```j5```
-    - Using another jumper wire from Bag 8, insert one end to ```h27``` and the other end into ```b2```
-    - Using another jumper wire from Bag 8, insert one end to ```i28``` and the other end into ```a1```
+    - Using one of the jumper wires, insert one end to ```i25``` and the other end into ```i18```
+    - Using another jumper wire, insert one end to ```j26``` and the other end into ```j5```
+    - Using another jumper wire, insert one end to ```h27``` and the other end into ```b2```
+    - Using another jumper wire, insert one end to ```i28``` and the other end into ```a1```
 
 1. Using the wires attached to the joystick, connect them as follows:
     - The wire from **GND** on the joystick goes to ```i8```
